@@ -11,24 +11,23 @@ var Yo = {
             "Pasatiempo1": "Hacer Ejercicio",
             "Pasatiempo2": "Jugar videojuegos",
             "Pasatiempo3": "Leer",
+    
 
             "Generos de peliculas fovoritos":{
                 "Accion": true,
                 "Comicas": true,
                 "Terror": true,
 
+
                 "Canciones Favoritas":{
                     "Metal": "Troper",
-                    "Rock": "Smells Like Teen Spirit"
-                }
+                    "Rock": "Smells Like Teen Spirit",
+                    "Trap": "The scotts",
+                    "Pop": "Postar"
+                }  
             }
-        },
-     },
-
-     
-     
-     
-
+        }
+    }    
 }
 
 console.log(Yo);
